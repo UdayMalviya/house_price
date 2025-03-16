@@ -1,4 +1,3 @@
----
 
 # 🏡 House Price Prediction
 
@@ -84,4 +83,3 @@ For any queries or suggestions, feel free to reach out:
 - **Author**: [Uday Malviya](https://github.com/UdayMalviya)
 - **Email**: [udaymalviya521@gmail.com]
 
----
